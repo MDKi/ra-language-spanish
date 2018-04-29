@@ -1,0 +1,25 @@
+{
+    "name": "ra-language-spanish",
+    "version": "1.0.0",
+    "description": "Spanish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joshf/ra-language-spanish.git"
+    },
+    "keywords": [
+        "react",
+        "react-admin",
+        "react-admin",
+        "translation"
+    ],
+    "author": "Josh Fradley",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/joshf/ra-language-spanish/issues"
+    },
+    "homepage": "https://github.com/joshf/ra-language-spanish#readme"
+}
